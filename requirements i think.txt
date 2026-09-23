@@ -1,0 +1,1 @@
+pip install aiohttp aiortc mss opencv-python av
